@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">World Cup Quiz</string>
+
+    <!--question 1-->
+
+    <string name="question_1">1.who is the winner of 2014 world cup </string>
+    <string name="Q1_first_answer">Brazil</string>
+    <string name="Q1_secound_answer">France</string>
+    <string name="Q1_third_answer">Germany</string>
+
+    <!--question 2-->
+
+    <string name="question_2">2.where did 1990 world cup is held </string>
+    <string name="Q2_first_answer">Itali</string>
+    <string name="Q2_secound_answer">England</string>
+    <string name="Q2_third_answer">Germany</string>
+
+    <!--question 3-->
+
+    <string name="question_3">3.who is the palyer win  best scorrer </string>
+    <string name="Q3_first_answer">Ziddan</string>
+    <string name="Q3_secound_answer">muller</string>
+    <string name="Q3_third_answer">Ronaldo</string>
+
+    <!--question 4-->
+    <string name="question_4">4.who card the refere use in this  </string>
+
+    <!--question 5-->
+    <string name="question_5">5.what is this cup name  </string>
+
+    <!--question 6-->
+
+    <string name="question_6">6.when did first world cup start </string>
+    <string name="Q6_first_answer">1934</string>
+    <string name="Q6_secound_answer">1928</string>
+    <string name="Q6_third_answer">1938</string>
+</resources>
