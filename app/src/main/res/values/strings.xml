@@ -3,35 +3,28 @@
 
     <!--question 1-->
 
-    <string name="question_1">1.who is the winner of 2014 world cup </string>
-    <string name="Q1_first_answer">Brazil</string>
-    <string name="Q1_secound_answer">France</string>
-    <string name="Q1_third_answer">Germany</string>
+    <string name="artist">Artist</string>
+    <string name="album">Album</string>
+    <string name="songs">Songs</string>
+    <string name="playlist">Playlist</string>
 
-    <!--question 2-->
-
-    <string name="question_2">2.where did 1990 world cup is held </string>
-    <string name="Q2_first_answer">Itali</string>
-    <string name="Q2_secound_answer">England</string>
-    <string name="Q2_third_answer">Germany</string>
-
-    <!--question 3-->
-
-    <string name="question_3">3.who is the palyer win  best scorrer </string>
-    <string name="Q3_first_answer">Ziddan</string>
-    <string name="Q3_secound_answer">muller</string>
-    <string name="Q3_third_answer">Ronaldo</string>
-
-    <!--question 4-->
-    <string name="question_4">4.who card the refere use in this  </string>
-
-    <!--question 5-->
-    <string name="question_5">5.what is this cup name  </string>
-
-    <!--question 6-->
-
-    <string name="question_6">6.when did first world cup start </string>
-    <string name="Q6_first_answer">1934</string>
-    <string name="Q6_secound_answer">1928</string>
-    <string name="Q6_third_answer">1938</string>
+    <string name="player">Player</string>
+    <string name="playlists">Playlists</string>
+    <string name="albums">Albums</string>
+    <string name="settings">Settings</string>
+    <string name="showSongLyrics">Show song lyrics</string>
+    <string name="continueFromLastSong">Play from last song</string>
+    <string name="anonymousData">Send anonymous usage data</string>
+    <string name="menuDescription">Menu of the app. Here the user can choose what he needs.
+    It would use the public class CardView from Android to display the menu as cards.</string>
+    <string name="playerAlbumSample">Album of the year - hispter singer.</string>
+    <string name="playerDescription">Music player. Here the user can listen to his music.
+    It would use the public class MediaPlayer from Android to control the audio files.</string>
+    <string name="albumsDescription">Albums list. Here the user can see his albums and details.
+    It would use the public class CardView to display each album as cards with album cover image,
+        singer name and album title.</string>
+    <string name="playlistsDescription">Playlists. Here the user can see, edit and choose to play
+        a custom playlist.</string>
+    <string name="settingsDescription">Settings screen. Here the user can adjust the configuration
+        of the app.</string>
 </resources>
